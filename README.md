@@ -1,2 +1,2 @@
-# tetris
+# Tetris
 tetris js
